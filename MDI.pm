@@ -4,7 +4,7 @@ use strict;
 use vars qw($VERSION);
 use Carp qw/carp/;
 
-$VERSION="0.1";
+$VERSION="0.2";
 
 use base qw(Tk::Frame);
 Construct Tk::Widget 'MDI';

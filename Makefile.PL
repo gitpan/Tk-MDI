@@ -27,8 +27,8 @@ WriteMakefile(
 			      },
 	      ($] >= 5.005 ? (
 			      ABSTRACT => 'MDI widget for Perl/Tk',
-			      AUTHOR   => "Jack Dunnigan (jgcd@shaw.ca), " .
-			      "Ala Qumsieh (qumsieh@cim.mcgill.ca)"
+			      AUTHOR   => 'Jack Dunnigan (jgcd@shaw.ca), ' .
+			      'Ala Qumsieh (qumsieh@cim.mcgill.ca)'
 			     ) : (),
 	      ),
 	     );
